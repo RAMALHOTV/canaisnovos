@@ -27,7 +27,8 @@ https://www.youtube.com/channel/UCojJlq
 -------------------[ AVISO]----------------------
 #EXTINF:0 logo="https://4br.me/AVISOIPTVPNG" group-title="AVISO", AVISO 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]BrazilTV[/COLOR][/B];&buffer=60000;url=http://bit.ly/3HwIDjY
-
+#EXTINF:-1,globo redcanais 
+https://m3u9.ml/a2/hls1/boborj.m3u8
 #EXTINF:-1,GLOBO SP 4K H265
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]BrazilTV[/COLOR][/B];&buffer=60000;url=http://cdnrede.com:80/rai/rai2021/174628
 #EXTINF:-1,RECORD TV SP 4K H265
